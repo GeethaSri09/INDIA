@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+  }
+  .i{
+    border: 10px solid black;
+    height:595px;
+    width:900px;
+    margin-left: 13%;
+  }
+  .flag
+  {
+    background-color: rgb(255, 86, 8);
+    width:900px;
+    height:200px;
+    position: relative;
+  }
+  .h
+  {
+    background-color:white;
+     width: 900px;
+     height: 200px;
+     position: absolute;
+    }
+    .h>img{
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+        margin: 0px;
+      left:350px;
+      }
+      p{
+          font-size: 5rem;
+          color: white;
+          text-align: center;
+          padding: 0;
+          margin: 0;
+      }
+     
+      .y{
+        background-color:green;
+        width:900px;
+        height:200px;
+         position: absolute;
+          top:64.7%
+      }
+
+ 
